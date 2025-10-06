@@ -1,3 +1,4 @@
+// hello world
 class class_name;
 
 local string name1;
