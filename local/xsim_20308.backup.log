@@ -3,8 +3,8 @@
 # SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
 # IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
 # SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
-# Start of session at: Tue Oct  7 00:03:53 2025
-# Process ID         : 4844
+# Start of session at: Tue Oct  7 00:15:00 2025
+# Process ID         : 20308
 # Current directory  : D:/systemverilog/local
 # Command line       : xsim.exe -mode tcl -source {xsim.dir/work.tb/xsim_script.tcl}
 # Log file           : D:/systemverilog/local/xsim.log
@@ -19,7 +19,7 @@
 # Host memory        : 8299 MB
 # Swap memory        : 6492 MB
 # Total Virtual      : 14791 MB
-# Available Virtual  : 2934 MB
+# Available Virtual  : 2364 MB
 #-----------------------------------------------------------
 source xsim.dir/work.tb/xsim_script.tcl
 # xsim {work.tb} -autoloadwcfg -runall
@@ -27,4 +27,4 @@ Time resolution is 1 ps
 run -all
 Your name is sohail
 exit
-INFO: [Common 17-206] Exiting xsim at Tue Oct  7 00:04:32 2025...
+INFO: [Common 17-206] Exiting xsim at Tue Oct  7 00:15:02 2025...
