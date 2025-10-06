@@ -1,0 +1,30 @@
+#-----------------------------------------------------------
+# xsim v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Tue Oct  7 00:10:47 2025
+# Process ID         : 21520
+# Current directory  : D:/systemverilog/local
+# Command line       : xsim.exe -mode tcl -source {xsim.dir/work.tb/xsim_script.tcl}
+# Log file           : D:/systemverilog/local/xsim.log
+# Journal file       : D:/systemverilog/local\xsim.jou
+# Running On         : sohail
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+# CPU Frequency      : 2419 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 8299 MB
+# Swap memory        : 6492 MB
+# Total Virtual      : 14791 MB
+# Available Virtual  : 2866 MB
+#-----------------------------------------------------------
+source xsim.dir/work.tb/xsim_script.tcl
+# xsim {work.tb} -autoloadwcfg -runall
+Time resolution is 1 ps
+run -all
+Your name is sohail
+exit
+INFO: [Common 17-206] Exiting xsim at Tue Oct  7 00:10:55 2025...
